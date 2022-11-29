@@ -1,0 +1,14 @@
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\bin\Debug\Classes1.exe.config
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\bin\Debug\Classes1.exe
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\bin\Debug\Classes1.pdb
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\obj\Debug\Classes1.csprojAssemblyReference.cache
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\obj\Debug\Classes1.csproj.CoreCompileInputs.cache
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\obj\Debug\Classes1.exe
+D:\istec\ISTEC-2022_2023\AULAS\RSI_POO\POO_PL\22Nov\Classes1\Classes1\obj\Debug\Classes1.pdb
+C:\Users\Aluno\Desktop\Classes1\Classes1\bin\Debug\Classes1.exe.config
+C:\Users\Aluno\Desktop\Classes1\Classes1\bin\Debug\Classes1.exe
+C:\Users\Aluno\Desktop\Classes1\Classes1\bin\Debug\Classes1.pdb
+C:\Users\Aluno\Desktop\Classes1\Classes1\obj\Debug\Classes1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Classes1\Classes1\obj\Debug\Classes1.exe
+C:\Users\Aluno\Desktop\Classes1\Classes1\obj\Debug\Classes1.pdb
+C:\Users\Aluno\Desktop\Classes1\Classes1\obj\Debug\Classes1.csproj.AssemblyReference.cache

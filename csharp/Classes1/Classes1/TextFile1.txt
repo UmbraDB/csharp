@@ -1,0 +1,76 @@
+﻿
+/* 
+ * 
+ *  /* Random r = new Random();
+            Carro ford = new Carro("Ford", "MG");
+            Carro fiat = new Carro("Fiat", "500");
+            for (int i = 1; i < 3; i++) {
+                Console.WriteLine("--------------------- Volta: " +  i + "--------------");
+                ford.acelera(r.Next(200));
+                fiat.acelera(r.Next(200));
+            }
+
+            //Carro vencedor = (ford.distancia > fiat.distancia) ? ford : fiat;
+            Carro vencedor;
+            if (ford.distancia > fiat.distancia) vencedor = ford;
+            else vencedor = fiat;
+
+            Console.WriteLine("----------------Vencedor------------------");
+            vencedor.ver();*/
+ * Action<String> action = (msg) => { Console.WriteLine(msg); };
+            action("Boa noite");
+           
+            Utils util = new Utils();
+            var colecao = util.SacaNumeros(1000, (a)=>a>500);
+            foreach (int pass in colecao) Console.Write(pass + "::");
+            Console.ReadLine();
+Func<int, int, int> oper;
+         int arg1, arg2;
+         string operacao;
+         Console.WriteLine("arg1:");
+         arg1 = int.Parse(Console.ReadLine());
+         Console.WriteLine("arg2:");
+         arg2 = int.Parse(Console.ReadLine());
+
+         Console.WriteLine("\nescolha operacao:");
+         operacao = Console.ReadLine();
+         switch (operacao) {
+             case "+":
+                 oper = (a, b) => a + b;
+                 break;
+             case "-":
+                 oper = (a, b) => a - b;
+                 break;
+             case "*":
+                 oper = (a, b) => a * b;
+                 break;
+             case "/":
+                 oper = (a, b) => a / b;
+                 break;
+             case "%":
+                 oper = (a, b) => a % b;
+                 break;
+             default:
+                 oper = null;
+                 Console.WriteLine("Invalid operation");
+                 break;
+         }
+         if (oper != null)Console.WriteLine(oper(arg1,arg2));
+         Console.ReadLine();
+
+
+
+
+         Utils utils = new Utils();
+         dlgopera dlg = utils.soma;//aponta
+         dlg += utils.subtrai;//aponta
+         int r=0;
+         dlg(2, 3, ref r);//chamada
+         Console.WriteLine(r);
+         dlg = delegate (int i, int j, ref int e) { e = i * j; };//aponta
+         dlg(5, 6, ref r);//chamada
+         Console.WriteLine(r);
+         dlg = (int i, int j, ref int pedro) => { pedro = i % j; };
+         dlg(7, 3, ref r);
+         Console.WriteLine(r);
+         Console.ReadLine();*/
