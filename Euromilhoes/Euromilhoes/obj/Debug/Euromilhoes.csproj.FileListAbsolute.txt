@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\bin\Debug\Euromilhoes.exe.config
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\bin\Debug\Euromilhoes.exe
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\bin\Debug\Euromilhoes.pdb
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\obj\Debug\Euromilhoes.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\obj\Debug\Euromilhoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\obj\Debug\Euromilhoes.exe
+C:\Users\Aluno\source\repos\Euromilhoes\Euromilhoes\obj\Debug\Euromilhoes.pdb
