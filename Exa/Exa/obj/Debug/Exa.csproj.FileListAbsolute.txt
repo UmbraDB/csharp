@@ -1,0 +1,8 @@
+C:\Users\dinis\source\repos\Exa\Exa\bin\Debug\Exa.exe.config
+C:\Users\dinis\source\repos\Exa\Exa\bin\Debug\Exa.exe
+C:\Users\dinis\source\repos\Exa\Exa\bin\Debug\Exa.pdb
+C:\Users\dinis\source\repos\Exa\Exa\obj\Debug\Exa.csproj.AssemblyReference.cache
+C:\Users\dinis\source\repos\Exa\Exa\obj\Debug\Exa.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinis\source\repos\Exa\Exa\obj\Debug\Exa.csproj.CoreCompileInputs.cache
+C:\Users\dinis\source\repos\Exa\Exa\obj\Debug\Exa.exe
+C:\Users\dinis\source\repos\Exa\Exa\obj\Debug\Exa.pdb

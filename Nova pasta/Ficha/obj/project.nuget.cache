@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkSEsZCENab2my5/oFsQZYl+091YxghFwfa/m0Lu/RKQMedSsS0cH45rRChVo8GZo1mv3bZ5bqUkDVqK3Q5+NA==",
+  "success": true,
+  "projectFilePath": "/home/umbradb/Aulac#/repos/Nova pasta/Ficha/Ficha.csproj",
+  "expectedPackageFiles": [
+    "/home/umbradb/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/umbradb/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/umbradb/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.31/microsoft.netcore.app.host.linux-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

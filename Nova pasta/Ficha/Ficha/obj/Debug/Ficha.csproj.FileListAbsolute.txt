@@ -1,0 +1,12 @@
+C:/Users/dinis/source/repos/Ficha/Ficha/bin/Debug/Ficha.exe.config
+C:/Users/dinis/source/repos/Ficha/Ficha/bin/Debug/Ficha.exe
+C:/Users/dinis/source/repos/Ficha/Ficha/bin/Debug/Ficha.pdb
+C:/Users/dinis/source/repos/Ficha/Ficha/obj/Debug/Ficha.csproj.AssemblyReference.cache
+C:/Users/dinis/source/repos/Ficha/Ficha/obj/Debug/Ficha.csproj.SuggestedBindingRedirects.cache
+C:/Users/dinis/source/repos/Ficha/Ficha/obj/Debug/Ficha.csproj.CoreCompileInputs.cache
+C:/Users/dinis/source/repos/Ficha/Ficha/obj/Debug/Ficha.exe
+C:/Users/dinis/source/repos/Ficha/Ficha/obj/Debug/Ficha.pdb
+/home/umbradb/Aulac#/repos/Ficha/Ficha/obj/Debug/Ficha.exe
+/home/umbradb/Aulac#/repos/Ficha/Ficha/obj/Debug/Ficha.pdb
+/home/umbradb/Aulac#/repos/Nova pasta/Ficha/Ficha/obj/Debug/Ficha.exe
+/home/umbradb/Aulac#/repos/Nova pasta/Ficha/Ficha/obj/Debug/Ficha.pdb

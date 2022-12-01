@@ -1,0 +1,8 @@
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\obj\Debug\Notas1a20.csproj.AssemblyReference.cache
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\obj\Debug\Notas1a20.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\obj\Debug\Notas1a20.csproj.CoreCompileInputs.cache
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\bin\Debug\Notas1a20.exe.config
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\bin\Debug\Notas1a20.exe
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\bin\Debug\Notas1a20.pdb
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\obj\Debug\Notas1a20.exe
+C:\Users\dinis\source\repos\Notas1a20\Notas1a20\obj\Debug\Notas1a20.pdb

@@ -1,0 +1,15 @@
+/home/umbradb/Git/csharp2/Casino/bin/Debug/net7.0/Casino
+/home/umbradb/Git/csharp2/Casino/bin/Debug/net7.0/Casino.deps.json
+/home/umbradb/Git/csharp2/Casino/bin/Debug/net7.0/Casino.runtimeconfig.json
+/home/umbradb/Git/csharp2/Casino/bin/Debug/net7.0/Casino.dll
+/home/umbradb/Git/csharp2/Casino/bin/Debug/net7.0/Casino.pdb
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.csproj.AssemblyReference.cache
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.GeneratedMSBuildEditorConfig.editorconfig
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.AssemblyInfoInputs.cache
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.AssemblyInfo.cs
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.csproj.CoreCompileInputs.cache
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.dll
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/refint/Casino.dll
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.pdb
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/Casino.genruntimeconfig.cache
+/home/umbradb/Git/csharp2/Casino/obj/Debug/net7.0/ref/Casino.dll

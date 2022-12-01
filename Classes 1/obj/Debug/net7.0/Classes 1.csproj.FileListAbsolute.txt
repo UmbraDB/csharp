@@ -1,0 +1,15 @@
+/home/umbradb/Git/csharp2/Classes 1/bin/Debug/net7.0/Classes 1
+/home/umbradb/Git/csharp2/Classes 1/bin/Debug/net7.0/Classes 1.deps.json
+/home/umbradb/Git/csharp2/Classes 1/bin/Debug/net7.0/Classes 1.runtimeconfig.json
+/home/umbradb/Git/csharp2/Classes 1/bin/Debug/net7.0/Classes 1.dll
+/home/umbradb/Git/csharp2/Classes 1/bin/Debug/net7.0/Classes 1.pdb
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.csproj.AssemblyReference.cache
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.AssemblyInfoInputs.cache
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.AssemblyInfo.cs
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.csproj.CoreCompileInputs.cache
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.dll
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/refint/Classes 1.dll
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.pdb
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/Classes 1.genruntimeconfig.cache
+/home/umbradb/Git/csharp2/Classes 1/obj/Debug/net7.0/ref/Classes 1.dll

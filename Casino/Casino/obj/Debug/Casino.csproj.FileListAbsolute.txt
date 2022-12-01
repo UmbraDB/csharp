@@ -1,7 +1,0 @@
-C:\Users\Aluno\source\repos\Casino\Casino\bin\Debug\Casino.exe.config
-C:\Users\Aluno\source\repos\Casino\Casino\bin\Debug\Casino.exe
-C:\Users\Aluno\source\repos\Casino\Casino\bin\Debug\Casino.pdb
-C:\Users\Aluno\source\repos\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
-C:\Users\Aluno\source\repos\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\source\repos\Casino\Casino\obj\Debug\Casino.exe
-C:\Users\Aluno\source\repos\Casino\Casino\obj\Debug\Casino.pdb

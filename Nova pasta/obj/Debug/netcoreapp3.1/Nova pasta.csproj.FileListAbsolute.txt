@@ -1,0 +1,6 @@
+/home/umbradb/Aulac#/repos/Nova pasta/obj/Debug/netcoreapp3.1/Nova pasta.csprojAssemblyReference.cache
+/home/umbradb/Aulac#/repos/Nova pasta/obj/Debug/netcoreapp3.1/Nova pasta.AssemblyInfoInputs.cache
+/home/umbradb/Aulac#/repos/Nova pasta/obj/Debug/netcoreapp3.1/Nova pasta.AssemblyInfo.cs
+/home/umbradb/Aulac#/repos/Nova pasta/obj/Debug/netcoreapp3.1/Nova pasta.csproj.CoreCompileInputs.cache
+/home/umbradb/Aulac#/repos/Nova pasta/obj/Debug/netcoreapp3.1/Nova pasta.csproj.AssemblyReference.cache
+/home/umbradb/Aulac#/repos/Nova pasta/obj/Debug/netcoreapp3.1/Nova pasta.GeneratedMSBuildEditorConfig.editorconfig

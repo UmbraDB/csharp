@@ -1,0 +1,15 @@
+/home/umbradb/Aulac#/repos/Nova pasta/teste/bin/Debug/net7.0/teste
+/home/umbradb/Aulac#/repos/Nova pasta/teste/bin/Debug/net7.0/teste.deps.json
+/home/umbradb/Aulac#/repos/Nova pasta/teste/bin/Debug/net7.0/teste.runtimeconfig.json
+/home/umbradb/Aulac#/repos/Nova pasta/teste/bin/Debug/net7.0/teste.dll
+/home/umbradb/Aulac#/repos/Nova pasta/teste/bin/Debug/net7.0/teste.pdb
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.csproj.AssemblyReference.cache
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.AssemblyInfoInputs.cache
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.AssemblyInfo.cs
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.csproj.CoreCompileInputs.cache
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.dll
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/refint/teste.dll
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.pdb
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/teste.genruntimeconfig.cache
+/home/umbradb/Aulac#/repos/Nova pasta/teste/obj/Debug/net7.0/ref/teste.dll

@@ -1,0 +1,8 @@
+C:\Users\dinis\source\repos\Nov15\Nov15\obj\Debug\Nov15.csproj.AssemblyReference.cache
+C:\Users\dinis\source\repos\Nov15\Nov15\obj\Debug\Nov15.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinis\source\repos\Nov15\Nov15\obj\Debug\Nov15.csproj.CoreCompileInputs.cache
+C:\Users\dinis\source\repos\Nov15\Nov15\bin\Debug\Nov15.exe.config
+C:\Users\dinis\source\repos\Nov15\Nov15\bin\Debug\Nov15.exe
+C:\Users\dinis\source\repos\Nov15\Nov15\bin\Debug\Nov15.pdb
+C:\Users\dinis\source\repos\Nov15\Nov15\obj\Debug\Nov15.exe
+C:\Users\dinis\source\repos\Nov15\Nov15\obj\Debug\Nov15.pdb
