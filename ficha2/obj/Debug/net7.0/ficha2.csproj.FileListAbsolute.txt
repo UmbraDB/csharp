@@ -1,0 +1,15 @@
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.csproj.AssemblyReference.cache
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.GeneratedMSBuildEditorConfig.editorconfig
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.AssemblyInfoInputs.cache
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.AssemblyInfo.cs
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.csproj.CoreCompileInputs.cache
+/home/umbradb/Git/csharp/ficha2/bin/Debug/net7.0/ficha2
+/home/umbradb/Git/csharp/ficha2/bin/Debug/net7.0/ficha2.deps.json
+/home/umbradb/Git/csharp/ficha2/bin/Debug/net7.0/ficha2.runtimeconfig.json
+/home/umbradb/Git/csharp/ficha2/bin/Debug/net7.0/ficha2.dll
+/home/umbradb/Git/csharp/ficha2/bin/Debug/net7.0/ficha2.pdb
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.dll
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/refint/ficha2.dll
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.pdb
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ficha2.genruntimeconfig.cache
+/home/umbradb/Git/csharp/ficha2/obj/Debug/net7.0/ref/ficha2.dll
