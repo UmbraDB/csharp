@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\bin\Debug\Casinonoite.exe.config
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\bin\Debug\Casinonoite.exe
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\bin\Debug\Casinonoite.pdb
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\obj\Debug\Casinonoite.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\obj\Debug\Casinonoite.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\obj\Debug\Casinonoite.exe
+C:\Users\Aluno\source\repos\Casinonoite\Casinonoite\obj\Debug\Casinonoite.pdb
