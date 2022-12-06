@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A36Sg9uGFd6MtAxdBKGxmbH+Dby6fFLS+kQl2u32P1KJwzNrt8Dbe0byJeKQkZVpyhE5CJ2FMGpfX12kgsgnjQ==",
+  "dgSpecHash": "j9Le3UfJ8M6ybNfb9vxgQA4G8D2kyM8E3kY/k1zf4hojL/SbSb1e0YWXKZNcgV0KbRHzS0ZiS6N/TIFnFrOxVg==",
   "success": true,
-  "projectFilePath": "/home/umbradb/Git/csharp2/Euromilhoes/Euromilhoes.csproj",
+  "projectFilePath": "/home/umbradb/Git/csharp/Euromilhoes/Euromilhoes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

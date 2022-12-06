@@ -52,8 +52,7 @@ namespace Ficha
                     case 4:
                         Console.WriteLine("insira o numero: ");
                         int.TryParse(Console.ReadLine(), out n);
-                        utilidades.parNum(n);
-                        if (n == 0) Console.WriteLine("o numero é par");
+                        if (utilidades.parNum(n) == 0) Console.WriteLine("o numero é par");
                         else Console.WriteLine("o numero é impar");
                         Console.ReadLine();
                         break;
@@ -104,7 +103,6 @@ namespace Ficha
                         catch (Exception)
                         {
                             Console.WriteLine("valor inválido");
-                        
                         }
                         break;
                     case 9:
@@ -117,14 +115,13 @@ namespace Ficha
                                 Console.Write("Elemento {0}:" ,i+1);
                                 ordena[i] = int.Parse(Console.ReadLine());
                             }
-                            //foreach (int zz in ordena) Console.WriteLine(zz +"*");    
+                            //foreach (int zz in ordena) Console.WriteLine(zz +"*");
 
                             utilidades.ordenaNum(ordena);
 
                             foreach (int nn in ordena) Console.Write(nn + "-");
                            // Console.WriteLine(String.Join("-", ordena));
                             Console.ReadLine();
-                           
 
                         }
                         catch (Exception)

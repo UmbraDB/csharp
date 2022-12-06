@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/umbradb/Git/csharp2/Euromilhoes/Euromilhoes.csproj": {}
+    "/home/umbradb/Git/csharp/Euromilhoes/Euromilhoes.csproj": {}
   },
   "projects": {
-    "/home/umbradb/Git/csharp2/Euromilhoes/Euromilhoes.csproj": {
+    "/home/umbradb/Git/csharp/Euromilhoes/Euromilhoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/umbradb/Git/csharp2/Euromilhoes/Euromilhoes.csproj",
+        "projectUniqueName": "/home/umbradb/Git/csharp/Euromilhoes/Euromilhoes.csproj",
         "projectName": "Euromilhoes",
-        "projectPath": "/home/umbradb/Git/csharp2/Euromilhoes/Euromilhoes.csproj",
+        "projectPath": "/home/umbradb/Git/csharp/Euromilhoes/Euromilhoes.csproj",
         "packagesPath": "/home/umbradb/.nuget/packages/",
-        "outputPath": "/home/umbradb/Git/csharp2/Euromilhoes/obj/",
+        "outputPath": "/home/umbradb/Git/csharp/Euromilhoes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/umbradb/.nuget/NuGet/NuGet.Config"

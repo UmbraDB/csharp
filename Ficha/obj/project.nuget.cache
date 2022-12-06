@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6pJp4v4sgouWdh83fFkdt72px49GyP+V5+Bu5vLXpK5jHFvjGB35XAvzt4bdomSmvNYXUgSxrTvrQGsbOdb2+A==",
+  "dgSpecHash": "igjoi4eG1ifYYTo8aVnNdbEjjrC8ARbgzomXUno8XvmIcRgIkYavHHm4lXkpaIUkL54hm/HC5Ned5+pkfV83sw==",
   "success": true,
-  "projectFilePath": "/home/umbradb/Git/csharp2/Ficha/Ficha.csproj",
+  "projectFilePath": "/home/umbradb/Git/csharp/Ficha/Ficha.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
