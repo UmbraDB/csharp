@@ -1,0 +1,15 @@
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.csproj.AssemblyReference.cache
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.GeneratedMSBuildEditorConfig.editorconfig
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.AssemblyInfoInputs.cache
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.AssemblyInfo.cs
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.csproj.CoreCompileInputs.cache
+/home/umbradb/Git/csharp/pi/bin/Debug/net7.0/pi
+/home/umbradb/Git/csharp/pi/bin/Debug/net7.0/pi.deps.json
+/home/umbradb/Git/csharp/pi/bin/Debug/net7.0/pi.runtimeconfig.json
+/home/umbradb/Git/csharp/pi/bin/Debug/net7.0/pi.dll
+/home/umbradb/Git/csharp/pi/bin/Debug/net7.0/pi.pdb
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.dll
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/refint/pi.dll
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.pdb
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/pi.genruntimeconfig.cache
+/home/umbradb/Git/csharp/pi/obj/Debug/net7.0/ref/pi.dll
