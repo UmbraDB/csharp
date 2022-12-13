@@ -1,0 +1,15 @@
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.csproj.AssemblyReference.cache
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.GeneratedMSBuildEditorConfig.editorconfig
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.AssemblyInfoInputs.cache
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.AssemblyInfo.cs
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.csproj.CoreCompileInputs.cache
+/home/umbradb/Git/csharp/Projects/slots/bin/Debug/net7.0/slots
+/home/umbradb/Git/csharp/Projects/slots/bin/Debug/net7.0/slots.deps.json
+/home/umbradb/Git/csharp/Projects/slots/bin/Debug/net7.0/slots.runtimeconfig.json
+/home/umbradb/Git/csharp/Projects/slots/bin/Debug/net7.0/slots.dll
+/home/umbradb/Git/csharp/Projects/slots/bin/Debug/net7.0/slots.pdb
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.dll
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/refint/slots.dll
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.pdb
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/slots.genruntimeconfig.cache
+/home/umbradb/Git/csharp/Projects/slots/obj/Debug/net7.0/ref/slots.dll
