@@ -30,11 +30,19 @@ namespace Slots
 			this.Username = name;
 			this.Balance = deposit;
 		}
+		public Login (int balance)
+		{
+			this.Balance = balance;
+		}
+
 		public void Deposit (int deposit) 
 		{
-			balance += deposit;
-			Console.WriteLine("Your balance is now: " + balance);
+			if (deposit > 0) balance += deposit; //this exists as a failsafe in case some invalid numbar gets pass menu.Deposit
 		}
-		public void Withdrawl (int withdrawl){}
+		public void Withdrawal (int withdrawal)
+		{
+			if (withdrawal <= balance) balance -= withdrawal;
+			else Console.WriteLine("Impossible to process withdrawal!");
+		}
 	}
 }
