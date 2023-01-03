@@ -19,6 +19,7 @@ namespace Slots
 			Game game = new Game();
 			for(int selector = -1; selector != 0; prize = 0) 
 			{
+		
 				Console.Clear();
 				if (login.Balance <= 0) Console.WriteLine("\n\b WARNING!!! \n Your Balance is {0} you should make a DEPOSIT", login.Balance);
 				menu.Selection();
@@ -28,26 +29,32 @@ namespace Slots
 				{
 					case 1:
 						Console.WriteLine("Your Username is: " + login.Username);
+						Console.ReadLine();
 						break;
 					case 2:
 						Console.WriteLine("Your Balance is: " + login.Balance);
+						Console.ReadLine();
 						break;
 					case 3:
 						deposit = menu.Deposit();
 						login.Deposit(deposit);
 						Console.WriteLine("You deposited " + deposit);
 						Console.WriteLine("Your Balance is: " + login.Balance);
+						Console.ReadLine();
 						break;
 					case 4:
 						withdrawal = menu.Withdrawal(login.Balance);
 						login.Withdrawal(withdrawal);
-						Console.WriteLine("You've withdrawn: " + withdrawal);
-						Console.WriteLine("Your Balance is: " + login.Balance);
 						break;
 					case 5:
 						Console.Clear();
+						/*if (login.Balance<=0) {
+							Console.WriteLine("Your balance is 0, Please Make a DEPOSIT!");
+							Console.ReadLine();
+							break;
+						} */
 						bet = menu.Bet(login.Balance);							
-						for(bool runTime=true;runTime == true && bet <= login.Balance;)
+						for(bool runTime=true;runTime == true && login.Balance > 0;)
 						{
 							login.Withdrawal(bet);
 							int guess = menu.GuessGame();
@@ -58,18 +65,26 @@ namespace Slots
 								login.Deposit(prize);
 							} else prize = 0;
 							game.Prize(prize);
+							Console.WriteLine("Your Balance is: " + login.Balance);
 							Console.WriteLine("Play again with same Bet??Press Enter for Yes");
+							if (login.Balance <=0) Console.WriteLine(" Exiting, your balance is 0, Please make a DEPOSIT!");
 							if (Console.ReadKey().Key != ConsoleKey.Enter) runTime = false;
 						}
 						break;
 					case 6:
 						Console.Clear();
+						if (login.Balance<=0) {
+							Console.WriteLine("Your balance is 0, Please Make a DEPOSIT!");
+							Console.ReadLine();
+							break;
+						}
 						bet = menu.Bet(login.Balance);
 						for(bool runTime=true;runTime == true && bet <= login.Balance;)
 						{
 							login.Withdrawal(bet);
 							prize = game.SlotMachine(bet);
 							game.Prize(prize);
+							Console.WriteLine("Your balance is: " + login.Balance);
 							login.Deposit(prize);
 							Console.WriteLine("Play again with same Bet? Press Enter for Yes");
 							if (Console.ReadKey().Key != ConsoleKey.Enter) runTime = false;
